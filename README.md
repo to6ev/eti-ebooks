@@ -11,6 +11,10 @@ Wi-Fi кратко ръководство
 
 Visual Basic кратко ръководство
 
+Get from:
+
 www.eti.pw
 
 brigante.sytes.net
+
+or click on the button: 'Clone or download'
