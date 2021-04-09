@@ -17,4 +17,4 @@ www.eti.pw
 
 brigante.sytes.net
 
-or click on the button: 'Clone'
+or click on the button: 'Code'
