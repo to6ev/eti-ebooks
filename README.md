@@ -15,6 +15,6 @@ Get from:
 
 www.eti.pw
 
-brigante.sytes.net
+https://ebooks.eti.pw - over 9000 ebooks in the repository
 
 or click on the button: 'Code'
